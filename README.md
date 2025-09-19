@@ -15,7 +15,7 @@ The simulation shows how multiple computers can be interconnected through networ
 ## 📡 Network Topology
 Below is the screenshot of the LAN built in Packet Tracer:
 
-![Network Topology](screenshots/pic.png)
+![Network Topology](screenshot/pic.png)
 
 ---
 
